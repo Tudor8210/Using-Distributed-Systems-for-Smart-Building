@@ -1,0 +1,12 @@
+Build unix
+./gradlew installDist
+
+Build windows
+gradlew.bat installDist
+
+Run the server 
+./build/install/example/bin/hello-world-server
+Run the client
+./build/install/example/bin/hello-world-client
+
+

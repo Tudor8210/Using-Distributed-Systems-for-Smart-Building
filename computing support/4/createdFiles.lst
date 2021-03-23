@@ -1,0 +1,11 @@
+com/learn/jmdnstest/GetRequest.class
+com/learn/jmdnstest/HTTPServer$MyHandler.class
+com/learn/jmdnstest/ExampleServiceDiscovery$SampleListener.class
+com/learn/jmdnstest/ExampleServiceRegistration.class
+com/learn/jmdnstest/HTTPServer.class
+com/example/date/DateClient$1.class
+com/example/date/DateServer.class
+com/learn/jmdnstest/ExampleServiceDiscovery$1.class
+com/learn/jmdnstest/ExampleServiceDiscovery.class
+com/example/date/DateClient$SampleListener.class
+com/example/date/DateClient.class

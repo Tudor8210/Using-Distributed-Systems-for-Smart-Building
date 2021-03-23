@@ -1,0 +1,8 @@
+compile:
+1: javac *.java (in directory where java files are located)
+2: idlj -fall -oldImplBase Hello.idl
+
+run:
+1. orbd: orbd -ORBInitialPort 1050 
+2. server: java HelloServer -ORBInitialPort 1050 -ORBInitialHost localhost
+3. client: java HelloClient -ORBInitialPort 1050 -ORBInitialHost localhost

@@ -1,0 +1,5 @@
+idlj -fall -oldImplBase HelloWorldName.idl
+javac *.java
+sudo  tnameserv - ORBInitialPort 3001
+java HelloNamingServer - ORBInitialPort 3001
+java HelloNamingClient - ORBInitialPort 3001
