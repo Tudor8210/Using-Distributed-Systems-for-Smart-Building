@@ -1,0 +1,56 @@
+Programme: HDip Science in Computing – Blockchain, September 2020
+Module: Distributed Systems
+Student Number: 20135254
+CA1: Project proposal
+Week: 9
+
+Project title: Using Distributed Systems for Smart Building
+
+Overview
+We are accustomed already to numerous smart devices. From smartphones to smart refrigerators, from smartwatches to tablets, from smart vehicles to smart doorbells, we rely on artefacts for more or less important tasks relevant to us in the name of convenience and optimisation. Once the door opened, it becomes difficult, if not impossible, to define boundaries for keeping objects outside that area. 
+The crucial relevance that buildings have in our lives, together with the high costs of creating and using them, quickly created smart buildings' need. Any building that has the most important operations automated is a smart building. You do not need to have a new building to make it smart. You can convert old buildings by adding sensors, connectivity devices etc. The final goal is to reduce various costs (financial, environmental, etc.) while optimising its usage. 
+Among the numerous issues that could be subject to automation in a building, we will concentrate on the following three:
+a. water usage,
+b. temperature control,
+c. fire safety.
+Target Group
+In our project, we will consider smart office buildings. There is a relatively long list of associated stakeholders: owners, management companies, insurance companies, tenants, employees, clients, utility providers, security companies, local administration, etc. All these will benefit from having the three mentioned services automated. 
+"Smart building strategies can reduce energy costs, increase the productivity of the facility staff, improve building operations, support sustainability efforts and enhance decision-making across the organisation."i
+
+Functionality 
+A. Water
+Imagine a severely damaged pipe at the last level of a tall building, starting to flush water at midnight. No floor will remain undamaged until morning without a prompt and adequate reaction. This is an extreme example, but one can consider the money lost for not so dramatic events. "Even a small or slow leak can waste a lot of water; a 3-millimeter crack in a pipe can waste about 946 liters (250 gallons) of water per day, according to American Water Resources."ii
+Suppose an unusually high amount of water is registered by the smart meter comparing with what is expected for a specific moment. In that case, the system will react to reduce the negative impact of the event. The action goes from alerting the administrators to shutting down the water flow.  
+B. Temperature
+Keeping the temperature in a narrow interval known to provide comfort is a very important feature of any building. In a smart building, there is a direct correlation between the number of sensors distributed in a building and the system's capability to optimise energy consumed for delivering the expected values at different moments of the day/week. 
+To be efficient, the sensors must offer information not only on the temperature but also on humidity. Moreover, sensors must be placed inside the building as well as outside. They read values and send the information to the control system that reacts accordingly.
+"Smart buildings attract tenants with their lower power and cooling costs, comfortable working environment, and focus on integrated technology. They also allow building owners and managers to maximise their return on investment by monitoring to be sure all building systems are operating at their peak efficiency."iii
+
+C. Fire safety
+Fire is the biggest threat to buildings and the people inside them. That is why fire safety features were integrated into buildings for many centuries. From the rudimentary mechanical systems to advanced electric/electronic ones in the 20th century, people continuously improved the ways to reduce the risk of a blaze. That explains the relatively slow pace of enhancing these systems comparing with others in the last decades. But the digitalisation offers room for improvement in this respect as well. 
+"The scalability and modular architecture of digital fire alarm systems have unlocked a new level of fire safety, for instance, by pinpointing the exact location of a triggered smoke detector in an alarm, or by interfacing with public address systems for phased building evacuations."iv
+
+
+
+References
+https://www.rcrwireless.com/20160725/business/smart-building-tag31-tag99 accessed on March 20th, 2021, 08:30 AM
+https://edition.cnn.com/2021/03/15/tech/ai-water-meter-wint-spc-intl/index.html accessed on March 20th, 2021, 11:00 PM
+https://www.trueoccupancy.com/smart-building-guide 
+accessed on March 20th, 2021, 16:30 PM
+https://avtech.com/articles/6599/environment-monitoring-smart-buildings-room-alert/#:~:text=Temperature%20monitoring%20in%20smart%20buildings&text=Room%20Alert%20provides%20far%20greater,an%20area%20in%20the%20building.
+accessed on March 21st, 2021, 08:30 PM
+https://www.asadria.com/en/fire-safety-all-set-to-modernize-as-smart-buildings-become-popular/
+accessed on March 21st, 2021, 10:00 PM
+
+i https://www.rcrwireless.com/20160725/business/smart-building-tag31-tag99
+ii https://edition.cnn.com/2021/03/15/tech/ai-water-meter-wint-spc-intl/index.html
+iii https://avtech.com/articles/6599/environment-monitoring-smart-buildings-room-alert/#:~:text=Temperature%20monitoring%20in%20smart%20buildings&text=Room%20Alert%20provides%20far%20greater,an%20area%20in%20the%20building.
+iv https://www.asadria.com/en/fire-safety-all-set-to-modernize-as-smart-buildings-become-popular/
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
